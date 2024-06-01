@@ -1,8 +1,8 @@
 # Banjo-Kazooie XBLA research project
 
-This organisation is to fiddle with the XBOX 360 version of Banjo-Kazooie and maybe end up with a decompilation. In doing so, we create tools that might help other XBOX 360 enthusiasts to make modification to other games.
+This organisation is to fiddle with the XBOX 360 version of Banjo-Kazooie and maybe end up with a decompilation. In doing so, we create tools that might help other XBOX 360 enthusiasts to make modifications to other games.
 
-## Repository
+## Repositories
 
 ### dump-diff
 
